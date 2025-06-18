@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TalendMetadata:DatabaseConnection xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmi:id="__9FdoErBEfCtyNlBxx4bLA" name="Example3" id="_3jNBkErBEfCtyNlBxx4bLA" label="Example3" DatabaseType="MySQL" DriverClass="com.mysql.cj.jdbc.Driver" URL="jdbc:mysql://localhost:3306/snowflake?noDatetimeStringSync=true&amp;enabledTLSProtocols=TLSv1.2,TLSv1.1,TLSv1" dbVersionString="MYSQL_8" Port="3306" Username="root" Password="enc:system.encryption.key.v1:eAyzp2nL65Vk/Yf++vzzyw7aZtYnmWtIa0EnrVzaV9goUh+fpTtX" ServerName="localhost" DatasourceName="" FileFieldName="" SID="snowflake" SqlSynthax="" StringQuote="" NullChar="" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="noDatetimeStringSync=true&amp;enabledTLSProtocols=TLSv1.2,TLSv1.1,TLSv1" StandardSQL="true" SQLMode="false" UiSchema="" supportNLS="false">
+  <taggedValue xmi:id="__9FdoUrBEfCtyNlBxx4bLA" tag="Is Conn Need Reload" value="false"/>
+  <taggedValue xmi:id="__91rkErBEfCtyNlBxx4bLA" tag="package filter" value=""/>
+  <taggedValue xmi:id="__-NfAErBEfCtyNlBxx4bLA" tag="Status" value=""/>
+  <taggedValue xmi:id="__-NfAUrBEfCtyNlBxx4bLA" tag="Version" value="0.1"/>
+  <taggedValue xmi:id="__-NfAkrBEfCtyNlBxx4bLA" tag="Purpose" value=""/>
+  <taggedValue xmi:id="__-NfA0rBEfCtyNlBxx4bLA" tag="Description" value=""/>
+  <taggedValue xmi:id="__-NfBErBEfCtyNlBxx4bLA" tag="Author" value=""/>
+  <taggedValue xmi:id="__-NfBUrBEfCtyNlBxx4bLA" tag="otherParameter"/>
+  <parameters xmi:id="__9FdokrBEfCtyNlBxx4bLA" key="CONN_PARA_KEY_USERNAME" value="root"/>
+</TalendMetadata:DatabaseConnection>
