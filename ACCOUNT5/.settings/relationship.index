@@ -1,5 +1,20 @@
 [ {
   "baseItem" : {
+    "id" : "_4-2_UGehEfCCr99qKZm-Kw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_gfaYcGeiEfCCr99qKZm-Kw",
+    "version" : "Latest",
+    "type" : "joblet"
+  }, {
+    "id" : "HashUtil",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_Cx0XIGIQEfC7H94rntLK3w",
     "version" : "0.1",
     "type" : "job"
@@ -23,5 +38,16 @@
     "id" : "built-in",
     "version" : "Latest",
     "type" : "context"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_gfaYcGeiEfCCr99qKZm-Kw",
+    "version" : "0.1",
+    "type" : "joblet"
+  },
+  "relatedItems" : [ {
+    "id" : "HashUtil",
+    "version" : "Latest",
+    "type" : "routine"
   } ]
 } ]
